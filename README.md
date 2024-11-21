@@ -17,13 +17,13 @@ Um bot desenvolvido em Python para gerenciar instâncias EC2 da AWS via Telegram
 ## Como Configurar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/claytonlcorrea/botTelegramAWS.git
 
 2. instalar dependencias:
    ```bash
    pip install -r requirements.txt
 
-3 . Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
+3. Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
   ```bash
    AWS_ACCESS_KEY=seu_access_key
    AWS_SECRET_KEY=sua_secret_key
