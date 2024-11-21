@@ -1,4 +1,4 @@
-# EC2 Management Bot - Telegram Integration
+# EC2 Management Telegram Bot
 
 Um bot desenvolvido em Python para gerenciar instâncias EC2 da AWS via Telegram. Este projeto utiliza a API do Telegram e a AWS SDK (boto3) para fornecer comandos simples, como reiniciar instâncias específicas, diretamente através de mensagens no Telegram.
 
